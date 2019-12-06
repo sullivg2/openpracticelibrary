@@ -1,6 +1,6 @@
 ---
 title: Design Sprint
-subtitle: Google Design Sprint
+subtitle: A sprint to clarify the problem and explore solutions
 date: 2018-12-19T21:42:38.398Z
 authors:
   - eformat
