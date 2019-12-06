@@ -1,6 +1,6 @@
 ---
 title: Kano Model
-subtitle: Analysis & Matrix
+subtitle: A model to help prioritize features
 date: 2018-12-18T18:52:22.120Z
 authors:
   - valyonchev
