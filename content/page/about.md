@@ -11,6 +11,8 @@ weight: 3
 aliases:
   /about/
 ---
+This is MOBIA's fork of the Open Practice Library that we maintain and use for the benefit
+of our customers through their tranformation towards creating a culture, set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably.
 
 ## Goals of this Library
 This Library is intended to be a wealth of knowledge on product Discovery and Delivery practices to be adopted and evolved by a positive, engaged and supportive global community.
